@@ -1,0 +1,1 @@
+E:\python_study\yolov7\datasets/defect/images/test/2.png
