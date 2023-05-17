@@ -10,8 +10,8 @@ import random
 import os
 
 # 原始路径
-image_original_path = "E:/实验数据/土豆CT实验/images/"
-label_original_path = "E:/实验数据/土豆CT实验/labels/"
+image_original_path = "./images/"
+label_original_path = "./labels/"
 image_last_name = '.png'
 label_last_name = '.txt'
 

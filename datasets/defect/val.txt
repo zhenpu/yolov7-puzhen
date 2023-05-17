@@ -1,1 +1,0 @@
-E:\python_study\yolov7\datasets/defect/images/val/3.png
