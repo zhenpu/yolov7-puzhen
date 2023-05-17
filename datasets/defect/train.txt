@@ -1,0 +1,1 @@
+D:\py_study\yolov7\datasets/defect/images/train/3.png
